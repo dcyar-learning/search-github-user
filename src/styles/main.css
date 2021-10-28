@@ -47,6 +47,10 @@ body {
   padding: 0.7em;
 }
 
+#header a {
+  color: #d1d1d1;
+}
+
 #searchForm {
   display: flex;
   justify-content: space-between;
